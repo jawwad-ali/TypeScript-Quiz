@@ -1,0 +1,44 @@
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Ranchers', cursive;
+    font-size:38px;
+    color:lightslategray;
+    /* opacity: 0.4; */
+}
+.totalQuestions{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size:16px;
+}
+.content{
+    padding:25px;
+}
+.questions{
+    font-family: 'Montserrat', sans-serif;
+    color:black !important;
+    font-size:19px;
+    font-weight: bold;
+    text-align: center;
+}
+.option-div{
+    border:1px solid black;
+    margin-top: 12px;
+    border-radius:25px;
+}
+.radioBtn{
+    margin-right: 5px;
+    background: purple;
+    cursor: pointer;
+}
+.options{
+    margin-top: 11px;
+    padding-left: 25px;
+}
+.submitBtnDiv{
+    width: 100%;
+    text-align: center;
+    margin-top: 12px;
+}
